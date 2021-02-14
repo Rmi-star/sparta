@@ -1,3 +1,3 @@
 # sparta
 
-sparat git connection test
+sparat finish!
